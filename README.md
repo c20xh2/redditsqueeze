@@ -2,7 +2,9 @@
 Look for shortsqueeze opportunity
 
 Required python3 librairies:
+
     pip install yfinance, praw
+
 
 Required environment variable:
     
